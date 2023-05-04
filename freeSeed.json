@@ -1,0 +1,12 @@
+{
+  "name":"rondao-unified-project",
+  "version":"0.0.1",
+  "description":"项目构建的统一目录结构",
+  "main":"start.cmd",
+  "repository":"https:\/\/github.com\/freedomxiang\/rondao-unified-project.git",
+  "keywords":"项目构建,统一性结构",
+  "author":"congjiang",
+  "email":"kuaileermeili@163.com",
+  "plugs":0,
+  "os":"all"
+}

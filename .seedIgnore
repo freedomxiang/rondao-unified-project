@@ -1,0 +1,7 @@
+dist\
+.idea\
+.gitee\
+freePackages\
+fdmx_modules\
+node_modules\
+freePackages
